@@ -1,4 +1,4 @@
-# aislam
+# Author: Ayra Islam
 Hello there! Feel free to look through some of the projects I've worked on!
 
 Projects include:
